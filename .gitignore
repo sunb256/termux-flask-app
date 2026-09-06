@@ -10,3 +10,4 @@ ocr_app.egg-info/
 *.egg-info
 
 termux-packages/
+build/
